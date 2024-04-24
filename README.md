@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj-seven&label=Profile%20views&color=0e75b6&style=flat" alt="aj-seven" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aj-seven" alt="aj-seven" /></a> </p>
-
 - 🔭 I’m currently working on [Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo)
 
 - 🌱 I’m currently learning **Reactjs**
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aj-seven&show_icons=true&locale=en" alt="aj-seven" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aj-seven&" alt="aj-seven" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aj-seven" alt="aj-seven" /></a> </p>

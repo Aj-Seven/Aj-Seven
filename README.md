@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj-seven&label=Profile%20views&color=0e75b6&style=flat" alt="aj-seven" /> </p>
 
-- 🔭 I’m currently working on [Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo)
+- 🔭 I’m currently working on side project based on **react**
 
-- 🌱 I’m currently learning **Reactjs**
-
-- 👯 I’m looking to collaborate on [Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo)
+- 🌱 I’m currently learning **Reactjs** with other web technologies
 
 - 📫 How to reach me **ajseven@oulook.in**
 
